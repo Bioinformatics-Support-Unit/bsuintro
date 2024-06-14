@@ -1,0 +1,16 @@
+Package: bsuintro
+Type: Package
+Title: Presents Data for BSU Intro course
+Version: 0.1.0
+Authors@R: c(person("John", "Casement", email = "john.casement@newcastle.ac.uk",
+  role = c("aut", "cre")))
+Maintainer: John Casement <john.casement@newcastle.ac.uk>
+Description: This package presents data tables used in the Newcastle University
+    Bioinformatics Support Unit Introduction to Practical Bioinformatics course.
+License: MIT + file LICENSE
+Imports:
+    tibble
+Suggests:
+    tidyverse
+Encoding: UTF-8
+LazyData: true
